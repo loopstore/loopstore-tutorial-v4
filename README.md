@@ -11,7 +11,8 @@ A tutorial for building an ecommerce store backend with  [LoopBack 4](https://v4
 Then you might want to just get started:
 
 Install the LoopBack 4 CLI
-'npm i -g @loopback/cli'
+
+`npm i -g @loopback/cli`
 
 -----
 ***Learn More***
@@ -29,7 +30,9 @@ LoopBack [version 4](https://strongloop.com/strongblog/loopback-4-ga) is an easi
 
 LoopStore Tutorial demonsrates how LoopBack could be used to create an API based backend for a functional ecommerce store, our [LoopStore](https://github.com/loopstore/loopstore). We're going to be selling downloadable Loops of anything, well, Loopy!
 
-We'll be quickly scaffolding the key components of our app using LoopBack's generators, connecting it up to a database and other external services like card payments, adding some authentication and deploying it all to the cloud using free-tier services. We'll be able to manage our Product and Cutomer data using a REST API, provide customers with a ShoppingCart, accept payment for an Order and give the customer authorised access to their downloads once they've paid. 
+We'll be quickly scaffolding the key components of our app using LoopBack's generators, connecting it up to a database and other external services like card payments, adding some authentication and deploying it all to the cloud using free-tier services. 
+
+We'll be able to manage our Product and Cutomer data using a REST API, provide customers with a ShoppingCart, accept payment for an Order and give the customer authorised access to their downloads once they've paid. 
 
 Of course this is just a tutorial, so to keep it simple we won't be implementing everything you would need to for a proper commercial store.
 
