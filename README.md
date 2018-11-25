@@ -4,17 +4,25 @@
 
 A tutorial for building an ecommerce store backend with  [LoopBack 4](https://v4.loopback.io/)
 -----
+***Purpose & Current Status***
+This repo was created 25 Nov 18 so there's nothing really here at the moment but there is work underway. Please read the rest of this page or take a look in the repo's [Issues](https://github.com/loopstore/tutorial-v4/issues).
+
+-----
 ***Get Started***
 
-*I'm a developer using [Node.js](https://nodejs.org) ^8 & [npm](https://www.npmjs.com) ^6*
+*I'm a developer using [Node.js](https://nodejs.org) ^8.9.0*
 
 Then you might want to just get started:
 
-Install the LoopBack 4 CLI
+Until we get things set up here, head over to the [https://github.com/strongloop/loopback4-example-shopping repo](https://github.com/strongloop/loopback4-example-shopping) and follow the instructions:
 
-`npm i -g @loopback/cli`
-
------
+```
+git clone https://github.com/strongloop/loopback4-example-shopping.git
+cd loopback4-example-shopping
+npm i
+npm start
+```
+----
 ***Learn More***
 
 *What is LoopBack?*
