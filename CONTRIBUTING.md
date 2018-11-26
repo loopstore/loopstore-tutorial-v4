@@ -1,6 +1,6 @@
  This is a small project but contributings are welcome.
  
- Complex cntributor guidelines are beyong the scope of this project at this time.
+ Complex contributor guidelines are beyong the scope of this project at this time.
  
  Please comment on [Issue #4](https://github.com/loopstore/loopstore-tutorial-v4/issues/4) if you are interested in contributing for the first time and we will respond.
  
