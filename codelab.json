@@ -1,0 +1,32 @@
+{
+  "environment": "web",
+  "source": "1y_HThLEerWrP6uSfiVvgAI08rKoXuMmHl2LHZL5R4R4",
+  "format": "html",
+  "prefix": "../../",
+  "mainga": "UA-49880327-14",
+  "updated": "2018-11-27T03:17:18Z",
+  "id": "loopstore-tutorial-v4",
+  "duration": 0,
+  "title": "Deploy your LoopStore to IBM Cloud free tier",
+  "author": "LoopStore",
+  "summary": "In tutorial we'll be creating an API for an ecommerce store to learn about the LoopBack 4 framework.",
+  "theme": "loopback",
+  "status": [
+    "draft"
+  ],
+  "category": [
+    "LoopBack"
+  ],
+  "tags": [
+    "cloudant",
+    "graphql",
+    "ibm cloud",
+    "loopback",
+    "loopstore",
+    "node",
+    "openapi",
+    "rest"
+  ],
+  "feedback": "https://github.com/loopstore/loopstore-tutorial-v4/issues",
+  "url": "loopstore-tutorial-v4"
+}
