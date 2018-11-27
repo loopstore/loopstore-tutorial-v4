@@ -5,7 +5,7 @@
 A tutorial for building an ecommerce store backend with  [LoopBack 4](https://v4.loopback.io/)
 -----
 ***Purpose & Current Status***
-This repo was created 25 Nov 18 so there's nothing really here at the moment but there is work underway. Please read the rest of this page or take a look in the repo's [Issues](https://github.com/loopstore/loopstore-tutorial-v4/issues).
+This repo was created 25 Nov 18 so there's nothing really here at the moment but there is [WORK IN PROGRESS](https://github.com/loopstore/loopstore-tutorial-v4/issues/13). Please read the rest of this page for an outine of what's to come or take a look in the repo's [Issues](https://github.com/loopstore/loopstore-tutorial-v4/issues/).
 
 -----
 ***Get Started***
