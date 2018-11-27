@@ -4,12 +4,12 @@
   "format": "html",
   "prefix": "../../",
   "mainga": "UA-49880327-14",
-  "updated": "2018-11-27T15:09:39Z",
+  "updated": "2018-11-27T17:49:43Z",
   "id": "deploy-to-ibm-cloud",
-  "duration": 0,
+  "duration": 14,
   "title": "Deploy your LoopStore to IBM Cloud free tier",
   "author": "LoopStore",
-  "summary": "In this hwo-to we'll look at deploying our app to IBM Cloud's free tier and connecting a Cloudant data source",
+  "summary": "In this how-to we'll look at deploying our app to IBM Cloud's free tier and connecting a Cloudant data source",
   "theme": "loopback",
   "status": [
     "draft"
